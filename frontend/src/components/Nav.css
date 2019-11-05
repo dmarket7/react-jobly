@@ -1,0 +1,11 @@
+.navbar a {
+    color: #fff;
+}
+
+.navbar a:active {
+    color: yellow;
+}
+
+.navbar a:hover {
+    color: yellow;
+}
