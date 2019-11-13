@@ -1,5 +1,5 @@
 # React Jobly
-This is a project built at Rithm School. It incorporates a Node JS server with a database of jobs and companies.
+This is an Indeed-like app. It incorporates a Node JS server with a database of jobs and companies.
 
 The core development consisted developing a React frontend using core features such as:
 * React router
